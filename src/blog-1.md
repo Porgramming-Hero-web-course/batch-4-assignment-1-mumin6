@@ -10,7 +10,7 @@ Example:
 Where the type of value can be string or number.
 
 ## Intersection Type
-Intersection type is formed combining  two or more types into one.Which will have the types of those other types.It used "&" symbol to combine the types.
+Intersection type is formed combining  two or more types into one.Which will have the types of those other types.It uses "&" symbol to combine the types.
 Example:
 ```tsx
     type Child={
